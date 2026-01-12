@@ -1,0 +1,11 @@
+config.json
+
+*.csv
+*.xlsx
+*.xls
+
+*.log
+.DS_Store
+
+*.dll
+*.exe
